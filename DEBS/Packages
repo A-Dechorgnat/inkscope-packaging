@@ -77,7 +77,7 @@ SHA256: e40e7ccfda71f881577a3b0bb2828422207408a91e94f831f7a40d4d585b5c29
 Section: monitoring
 Priority: extra
 Description: monitoring  of ceph cluster
- install all check and include file  for  cpeh monitoring
+ install all check and include file for ceph monitoring
 
 Package: inkscope-sysprobe
 Version: 1.5.0-0
