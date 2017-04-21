@@ -28,8 +28,8 @@ SHA1: a66ae4adec6078cd6a80b49d9817515ba86d3a39
 SHA256: 1b23ea838b7d9cfbeace584062e5338170b9cfb6feb333cbef70fa8bca5edf66
 Section: monitoring
 Priority: extra
-Description: monitoring  of ceph cluster
- install ceph prob only
+Description: monitoring of ceph cluster
+ install ceph probe only
 
 Package: inkscope-cephrestapi
 Version: 1.5.0-0
@@ -45,7 +45,7 @@ SHA256: 1e35a19d1293b2176ceb104232bad4c8667d26342279b3a3f6554b883508e8cd
 Section: monitoring
 Priority: extra
 Description: allow ceph rest api compute
- install a ceph-rest-api start script
+ install a ceph-rest-api start script if used in standalone mode
 
 Package: inkscope-common
 Version: 1.5.0-0
@@ -60,7 +60,7 @@ SHA1: 9e0c1a97b78cef4f79829f4c3afbf4f77e5fa111
 SHA256: 373805c9fde69cd6030e526614a1540214fb4f52fcbb8475399d5b4476d17098
 Section: monitoring
 Priority: extra
-Description: common file beetwen all packages
+Description: common file between all packages
  install all conf files
 
 Package: inkscope-monitoring
